@@ -1,19 +1,23 @@
-## Hi there 👋
-Hello I'm nhan, I have a dream to become an indie game developer,designer and a front-end developer.
+## Hi there 😄
+I'm nhan, I have a dream to become an indie game developer,designer and a front-end developer.
 
-## My goal:
+# My goal:
 Design & Development
 Designing Intuitive Interfaces. 
 Crafting Immersive Worlds. 
 Building Engaging Experiences.
 
-## <a href="https://quotefancy.com/quote/775666/Bill-Gates-Software-is-a-great-combination-between-artistry-and-engineering-When-you">"Software is a great combination between artistry and engineering." — Bill Gates </a>
+# <a href="https://quotefancy.com/quote/775666/Bill-Gates-Software-is-a-great-combination-between-artistry-and-engineering-When-you">"Software is a great combination between artistry and engineering." — Bill Gates </a>
 
-### As a Game Developer, I am passionate about crafting beautiful game and designing carefully balanced levels that create immersive and engaging player experiences.
-### As a Front-End Developer I crafts responsive, accessible, and engaging websites and moblie apps using modern technologies
-### As a UI/UX designer, I focus on clarity, usability, and emotional connection between users and products.
+## As a Game Developer, I am passionate about crafting beautiful game and designing carefully balanced levels that create immersive and engaging player experiences 🌱.
+## As a Front-End Developer I crafts responsive, accessible, and engaging websites and moblie apps using modern technologies 🔭.
+## As a UI/UX designer, I focus on clarity, usability, and emotional connection between users and products 👯.
 
-##  <a href="https://aboutme-9824a.firebaseapp.com/Certifications.html"> My Certifications & Achievements </a>
+# <a href="https://aboutme-9824a.firebaseapp.com/Certifications.html"> My Certifications & Achievements </a>
+
+# Here some links to my game project ✨
+https://greenboy123.itch.io/
+
 
 <!--
 **green96/green96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
