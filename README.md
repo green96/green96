@@ -27,7 +27,8 @@ My Website: https://aboutme-9824a.firebaseapp.com/
 
 My Game Jolt: https://gamejolt.com/@Greenboy123/games
 
-<img src="https://github.com/green96/green96/blob/b312dfa3fa5e8d41eb4d55195d663ab611e99583/HOLOCENE%20v1.PNG?raw=true" width="400" alt="HOLOCENE v1"> **"We are staring at a mirror for your life and a wishing well for loose dreams. The real sin of techno-science isn't the horror, CASCADE. The real sin is that it failed (HOLOCENE embodies of the cosmic)"** 
+| <img src="https://github.com/green96/green96/blob/b312dfa3fa5e8d41eb4d55195d663ab611e99583/HOLOCENE%20v1.PNG?raw=true" width="400" alt="HOLOCENE v1"> | **"We are staring at a mirror for your life and a wishing well for loose dreams. The real sin of techno-science isn't the horror, CASCADE. The real sin is that it failed (HOLOCENE embodies of the cosmic)"** |
+| :--- | :--- |
 
 ---
 <!--
