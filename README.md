@@ -35,7 +35,6 @@ My Game Jolt: https://gamejolt.com/@Greenboy123/games
 | :--- | :--- |
 
 ---
-https://github.com/green96/green96/blob/5b18f79c36e78ab43d3f7ce46cf8bd757d1ff08b/Petre%2C%20the%20Format%20Fetishist.png
 <!--
 **green96/green96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
