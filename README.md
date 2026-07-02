@@ -31,7 +31,7 @@ My Game Jolt: https://gamejolt.com/@Greenboy123/games
 | :--- | :--- |
 
 ---
-| <img src="https://github.com/green96/green96/blob/5b18f79c36e78ab43d3f7ce46cf8bd757d1ff08b/Petre%2C%20the%20Format%20Fetishist.png?raw=true" width="400" alt="Petre v1"> | **"Look at them out there in Party Alley. Chewing on synthetic music, vibrating to frequencies engineered by committee. True art requires a soul that knows how to bleed, Cascade. These people don't want to bleed. They just want a rhythmic anesthetic to get them through the shift."** |
+| <img src="https://github.com/green96/green96/blob/5b18f79c36e78ab43d3f7ce46cf8bd757d1ff08b/Petre%2C%20the%20Format%20Fetishist.png?raw=true" width="400" alt="Petre v1"> | **"Look at them out there in Party Alley. Chewing on synthetic music, vibrating to frequencies engineered by committee. True art requires a soul that knows how to bleed, Cascade. These people don't want to bleed. They just want a rhythmic anesthetic to get them through the shift (PETRE, the Format Fetishist)"** |
 | :--- | :--- |
 
 ---
